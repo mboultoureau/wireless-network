@@ -2,7 +2,7 @@
 
 2.1 - Extraction of the time frequency matrix 
     
-    - What is the size of the matrix ? Why such dimension ? 
+    - What is the size of the matrix ? Why such dimension ?
 
     - Explain the new dimension of the matrix (with only the allowed subcarriers)
 
