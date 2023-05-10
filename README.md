@@ -1,16 +1,5 @@
 # Wireless Network
 
-2.1 - Extraction of the time frequency matrix 
-    
-    - What is the size of the matrix ? Why such dimension ?
+The goal of this practical work carried out as part of the Wireless Networks course at ENSSAT is to decode a 5G NR frame.
 
-    - Explain the new dimension of the matrix (with only the allowed subcarriers)
-
-2.2.3 - PBCH decoding 
-        
-    - What is the cell indent ? 
-
-    - How many users are allowed in our network ? 
-
-    - Size of the full PBCH channel
-
+By [Boultoureau Mathis](https://github.com/mboultoureau) and [Daniel Émilie](https://github.com/edanielENSSAT).
